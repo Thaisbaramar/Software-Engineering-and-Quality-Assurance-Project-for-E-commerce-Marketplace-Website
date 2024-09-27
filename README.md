@@ -8,6 +8,11 @@
 - Dr. Mohammed Nazeh Al-Imam
 
 ---
+## Acknowledgment:
+
+This project was developed as part of a university course under the supervision of **Dr. Mohammed Nazeh Al-Imam**. All knowledge, methods, and guidance provided by Dr. Al-Imam were instrumental in the successful completion of this project. We would like to extend our deepest gratitude for his expertise and direction throughout the process.
+
+All intellectual content, research, and methodologies utilized within this project adhere to the educational guidelines set forth by the university. The authors of this project claim no ownership of any proprietary knowledge or techniques that belong to third parties. Any proprietary tools or frameworks used in the project have been credited appropriately and are the intellectual property of their respective owners.
 
 ## Project Overview:
 
